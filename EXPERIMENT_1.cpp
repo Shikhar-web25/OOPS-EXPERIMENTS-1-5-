@@ -61,7 +61,6 @@ class BankAccount
 int main(){
     BankAccount shikhar;
     shikhar.getData();
-    shikhar.display();
     shikhar.withdraw();
     shikhar.deposit();
     shikhar.display();
